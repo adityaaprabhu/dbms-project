@@ -1,1 +1,1 @@
-# Music Management system (dbms-project)
+# Chat Application (dbms-project)
